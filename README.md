@@ -7,7 +7,7 @@ Desafio #27 - uma página de erro 404
 </td></tr></table>
 
 <table align="center"><tr><td align="center" width="9999">
-<img src="https://i.imgur.com/qtcJh7i.gif" align="center">
+<img src="https://i.imgur.com/vSXA1aX.gif" align="center">
 </td></tr></table>
 
 
